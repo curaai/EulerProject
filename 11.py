@@ -29,17 +29,16 @@ def multiple(list):
 
 def four_chain(x, y, flag):
     temp = list()
-    if flag == 0:
-        temp = num_list[y][x:x+4]
 
-    else:
-        for i in range(4):
-            if flag == 1:
-                temp.append(num_list[y + i][x])
-            elif flag == 2:
-                temp.append(num_list[y + i][x + i])
-            elif flag == 3:
-                temp.append(num_list[y + 3 - i][x + i])
+    for i in range(4):
+        if flag == 0:
+            temp.append(num_list[y][x + i])
+        elif flag == 1:
+            temp.append(num_list[y + i][x])
+        elif flag == 2:
+            temp.append(num_list[y + i][x + i])
+        elif flag == 3:
+            temp.append(num_list[y + 3 - i][x + i])
 
     return multiple(temp)
 
