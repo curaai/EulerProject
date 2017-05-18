@@ -1,4 +1,11 @@
+from itertools import count
+
 def prime_check(n):
+    if n < 2:
+        return False
+    if n == 2:
+        return True
+
     if n % 2 == 0:
         return False
 
@@ -8,28 +15,21 @@ def prime_check(n):
 
     return True
 
+
 def goldbach(num):
-    global prime_list
+    for i in range(1, num):
 
-    for prime in prime_list:
-        temp = num - prime
-
-        for i in range(1, int(temp ** 0.5) + 1):
-            if 2 * i ** 2 == temp:
-                return True
+        prime = num - 2 * i ** 2
+        if prime_check(prime):
+            return True
 
     return False
 
+
 if __name__ == '__main__':
-    prime_list = [2]
-
-    i = 3
-    while True:
-        if prime_check(i):
-            prime_list.append(i)
-        else:
-            if goldbach(i) is False:
-                print(i)
-                break
-
-        i += 2
+    for num in count(9, 2):
+        if prime_check(num):
+            pass
+        elif goldbach(num) is False:
+            print(num)
+            break
