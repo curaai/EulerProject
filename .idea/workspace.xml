@@ -115,7 +115,11 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="74.py" pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name="74.py" pinned="false" current-in-tab="true">
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
         <entry file="file://$PROJECT_DIR$/74.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -168,7 +172,10 @@
         <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/41.py" />
         <option value="$PROJECT_DIR$/74.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/87.py" />
+=======
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       </list>
     </option>
   </component>
@@ -237,7 +244,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.87">
+=======
+  <component name="RunManager" selected="Python.74">
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
     <configuration default="false" name="57" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,7 +267,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="65" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -269,12 +284,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="D:\Study\Euler\69.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18.py" />
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="65" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -287,12 +310,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+=======
+      <option name="SCRIPT_NAME" value="D:\Study\Euler\69.py" />
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="74" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -305,12 +336,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/74.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="87" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="74" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -323,7 +362,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Euler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/87.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/74.py" />
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -563,6 +606,7 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.coding" />
       <item index="1" class="java.lang.String" itemvalue="Python.57" />
+<<<<<<< HEAD
       <item index="2" class="java.lang.String" itemvalue="Python.65" />
       <item index="3" class="java.lang.String" itemvalue="Python.temp" />
       <item index="4" class="java.lang.String" itemvalue="Python.74" />
@@ -575,6 +619,20 @@
         <item index="2" class="java.lang.String" itemvalue="Python.temp" />
         <item index="3" class="java.lang.String" itemvalue="Python.65" />
         <item index="4" class="java.lang.String" itemvalue="Python.57" />
+=======
+      <item index="2" class="java.lang.String" itemvalue="Python.18" />
+      <item index="3" class="java.lang.String" itemvalue="Python.65" />
+      <item index="4" class="java.lang.String" itemvalue="Python.temp" />
+      <item index="5" class="java.lang.String" itemvalue="Python.74" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.74" />
+        <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.65" />
+        <item index="3" class="java.lang.String" itemvalue="Python.57" />
+        <item index="4" class="java.lang.String" itemvalue="Python.18" />
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
       </list>
     </recent_temporary>
   </component>
@@ -636,6 +694,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
     <entry file="file://$PROJECT_DIR$/49.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -938,8 +1007,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/87.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="680">
           <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+=======
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/74.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+>>>>>>> 95c2559f0036c92b0199bf49dcf0a879c10ee060
           <folding />
         </state>
       </provider>
