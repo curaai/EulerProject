@@ -28,8 +28,6 @@ if __name__ == '__main__':
     count = 0
 
     for i in range(1, 10000000):
-        if i % 100000 == 0:
-            print(i)
         duplication(i)
 
     print(count)
